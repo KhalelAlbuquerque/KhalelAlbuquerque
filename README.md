@@ -1,6 +1,6 @@
 ### Hello, i'm Khalel! 👋
 
-💻 Passionate developer. I am a FullStack developer and am always looking to learn and improve my skills.
+💻 I am a FullStack developer and am always looking to learn and improve my skills.
 
 🚀 My interests include become a better professional and gain experience. I'm excited to contribute to the developer community and build innovative solutions.
 
